@@ -1,0 +1,17 @@
+# IDE
+./build/
+.settings/
+.idea/
+.buildpath
+.classpath
+.project
+.springBeans
+
+# Maven
+target/
+
+# Java
+*.class
+*.war
+*.ear
+
